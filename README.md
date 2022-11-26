@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 const Wodson = {<br><br>- 👋 Oi, Wodson na linha...<br><br>👀 Introdução a Ciência da computação<br><br>🌱 Estudando C++<br><br>  console.log("Olá mundo!"); <br><br>     país: "Brasil", <br><br>     idiomas: ["Português"], <br><br>     metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br><br>     meusFavoritos: { <br><br>     bandaDeRock: "Pantera",<br><br>      filmes: "Tropa de Elite",<br>     }<br>}
 
 
