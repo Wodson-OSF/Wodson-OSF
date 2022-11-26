@@ -1,4 +1,4 @@
-#💫 const Wodson = {<br>👋 Oi, Wodson na linha...<br>👀 Introdução a Ciência da computação<br>🌱 Estudando C++<br> console.log("Olá mundo!");<br>país: "Brasil", <br>idiomas: ["Português"],<br>metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br>      meusFavoritos: { <br>      bandaDeRock: "Pantera",<br>      filmes: "Tropa de Elite",<br>      }<br>}<br>
+💫 const Wodson = {<br>👋 Oi, Wodson na linha...<br>👀 Introdução a Ciência da computação<br>🌱 Estudando C++<br> console.log("Olá mundo!");<br>país: "Brasil", <br>idiomas: ["Português"],<br>metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br>      meusFavoritos: { <br>      bandaDeRock: "Pantera",<br>      filmes: "Tropa de Elite",<br>      }<br>}<br>
 
 
 ## 🌐 Socials:
