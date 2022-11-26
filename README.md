@@ -97,7 +97,7 @@ const Wodson = {
 <h2>:octocat: Minhas estatísticas no GitHub</h2> 
 
 <details> 
-<summary>Estatísticas gerais</summary> 
+<>Estatísticas gerais</> 
 <div> 
     <img alt="github repos" src="https://badges.pufler.dev/repos/Wodson-OSF?color=181717&style=for-the-badge&labelColor=7E3ACE"> 
     <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Wodson-OSF?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje"> 
