@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Oi, @Wodson-OSF na linha...<br><br>- 👀 Introdução a Ciência da computação <br><br>- 🌱 Estudando C++<br>
+- 👋 Oi, Wodson na linha...<br><br>- 👀 Introdução a Ciência da computação <br><br>- 🌱 Estudando C++<br>
 
 
 ## 🌐 Socials:
