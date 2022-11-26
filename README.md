@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&heinght=180&section=header&text=Wodson Oliveira S Freitas&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/> 
 
 <div align="center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=%C3%A9+Bem+vindo/a+ao+meu+perfil!+:);Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Sou+de+Brasília-DF" alt="Computer Student, Brazilian"></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Bem+vindo/a+ao+meu+perfil!+:);Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Sou+de+Brasília-DF" alt="Computer Student, Brazilian"></a> 
 </div> 
 
 <table align="right"> 
