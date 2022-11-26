@@ -3,7 +3,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodosn;Estudante+de+Cinêcia+da+Computa%C3%A7%C3%A3o;Foco+For%C3%A7+Fé+%3C3;function+findQuestion(42)" alt="Computer Student, Brazilian"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodosn;Estudante+de+Cinêcia+da+Computa%C3%A7%C3%A3o;Foco+For%C3%A7+Fé+;function+findQuestion(42)" alt="Computer Student, Brazilian"></a>
 </div>
 
 <table align="right">
@@ -38,7 +38,7 @@ const Wodson = {
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@wodsonoliveira&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/alca_massa_alvo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alca_massa_alvo=&style=flat&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alca_massa_alvo&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:woth_o@hotmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=woth_o@hotmail.com&color=whitesmoke&style=flat&logo=hotmail" />
