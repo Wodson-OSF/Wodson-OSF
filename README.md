@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Wodson Oliveira S Freitas&fontSize=30&fontcolor=fff&animation=twinkling&fontAligny=35"/> 
 
 <div align="center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!+:);Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Sou+de+Brasília-DF" alt="Computer Student, Brazilian"></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%blue&size=30&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!+:);Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Sou+de+Brasília-DF" alt="Computer Student, Brazilian"></a> 
 </div> 
 
 <table align="right"> 
@@ -141,9 +141,9 @@ const Wodson = {
 
 <div align="center"> 
     <a href="https://git.io/typing-svg"> 
-        <img alt="obrigado pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=black&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
+        <img alt="obrigado pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=green&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
     </a> 
 </div> 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p> 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=green&style=flat&logo" alt="voltar ao topo" /></a></p> 
 <div align="center" ><img alt="" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/footer.png"></div> 
