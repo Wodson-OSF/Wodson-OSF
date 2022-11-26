@@ -94,7 +94,7 @@ const Wodson = {
 </br></br> 
 
 </details> 
-<h2>: Minhas estatísticas no GitHub</h2> 
+<h2> Minhas estatísticas no GitHub</h2> 
 
 <details> 
 <summary>Estatísticas gerais</summary>
