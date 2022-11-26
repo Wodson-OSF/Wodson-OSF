@@ -141,7 +141,7 @@ const Wodson = {
 
 <div align="center"> 
     <a href="https://git.io/typing-svg"> 
-        <img alt="obrigada pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
+        <img alt="obrigado pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
     </a> 
 </div> 
 
