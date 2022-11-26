@@ -162,3 +162,5 @@ const Wodson = {
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=green&style=flat&logo" alt="voltar ao topo" /></a></p> 
 <div align="center" ><img alt="" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/footer.png"></div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
