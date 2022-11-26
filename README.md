@@ -155,10 +155,5 @@ const Wodson = {
     </a> 
 </div> 
 
-<div align="center"> 
-    <br><p align="center"><b>Visitors Count</b></p> 
-    <p align="center"><img align="center" src="https://profile-counter.glitc.me/{wodson-osf}/count.svg" /></p> 
-<br></div> 
-
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=green&style=flat&logo" alt="voltar ao topo" /></a></p> 
 <div align="center" ><img alt="" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/footer.png"></div> 
