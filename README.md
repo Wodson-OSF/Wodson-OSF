@@ -3,7 +3,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodson;Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Foco+For%C3%A7+Fé+;function+findQuestion(42)" alt="Computer Student, Brazilian"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodson;Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento" alt="Computer Student, Brazilian"></a>
 </div>
 
 <table align="right">
