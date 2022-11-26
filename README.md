@@ -43,6 +43,9 @@ const Wodson = {
 <a href="mailto:woth_o@hotmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=woth_o@hotmail.com&color=whitesmoke&style=flat&logo=hotmail" />
 </a>
+<a href="mailto:wodsonambiental@gmail.com">
+    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=wodsonambiental@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>    
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
