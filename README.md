@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=WodsonOliveiraSFreitas"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Wodson+Oliveira+S+Freitas"/>
 
 <div align="center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%blue&size=30&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!+:);Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento;Sou+de+Brasília-DF" alt="Computer Student, Brazilian"></a> 
