@@ -3,7 +3,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodosn;Estudante+de+Cinêcia+da+Computa%C3%A7%C3%A3o;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <table align="right">
