@@ -73,6 +73,16 @@ const Wodson = {
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code> 
 </br></br> 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wodson-OSF&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wodson-OSF&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wodson-OSF&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Wodson-OSF&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h2>:books: Meu Portfólio Pessoal</h2> 
 <a href="https://github.com/Wodson-OSF/portfolio"> 
     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Wodson-OSF&repo=portfolio&theme=midnight-purple&hide_border=true"> 
