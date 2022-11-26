@@ -1,16 +1,16 @@
-# 💫 About Me:
+# 💫 const Wodson = {
 - 👋 Oi, Wodson na linha...<br><br>- 👀 Introdução a Ciência da computação <br><br>- 🌱 Estudando C++<br>
 
-console.log("Olá mundo!");
-const Wodson = {
-    país: "Brasil",
-    idiomas: ["Português"],
-    metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],
-    meusFavoritos: {
-        bandaDeRock: "Pantera",
-        filmes: "Tropa de Elite",
-    }
-}
+<br><br>- console.log("Olá mundo!"); <br><br>-
+
+    <br><br>- país: "Brasil", <br><br>-
+    <br><br>- idiomas: ["Português"], <br><br>-
+    <br><br>- metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br><br>-
+    <br><br>- meusFavoritos: { <br><br>-
+        <br><br>- bandaDeRock: "Pantera",<br><br>-
+        <br><br>-filmes: "Tropa de Elite",<br><br>-
+    <br><br>- }<br><br>-
+<br><br>- }<br><br>-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/WOTH#4332) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ALCA_MASSA_ALVO) 
