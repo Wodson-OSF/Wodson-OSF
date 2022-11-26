@@ -1,8 +1,8 @@
-# 💫 const Wodson = {<br><br>- 👋 Oi, Wodson na linha...<br><br>👀 Introdução a Ciência da computação<br><br>🌱 Estudando C++<br><br>  console.log("Olá mundo!"); <br><br>     país: "Brasil", <br><br>     idiomas: ["Português"], <br><br>     metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br><br>     meusFavoritos: { <br><br>     bandaDeRock: "Pantera",<br><br>      filmes: "Tropa de Elite",<br>     }<br>}
+#💫 const Wodson = {<br>👋 Oi, Wodson na linha...<br>👀 Introdução a Ciência da computação<br>🌱 Estudando C++<br> console.log("Olá mundo!");<br>país: "Brasil", <br>idiomas: ["Português"],<br>metasDeAnoNovo: ["aprimorar minhas habilidades em programação"],<br>      meusFavoritos: { <br>      bandaDeRock: "Pantera",<br>      filmes: "Tropa de Elite",<br>      }<br>}<br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/woth#4332) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alca_massa_alvo) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/woth#4322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alca_massa_alvo) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
