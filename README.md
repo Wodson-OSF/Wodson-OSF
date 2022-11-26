@@ -141,9 +141,9 @@ const Wodson = {
 
 <div align="center"> 
     <a href="https://git.io/typing-svg"> 
-        <img alt="obrigado pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
+        <img alt="obrigado pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=black&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" > 
     </a> 
 </div> 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=black&style=flat&logo" alt="voltar ao topo" /></a></p> 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p> 
 <div align="center" ><img alt="" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/footer.png"></div> 
