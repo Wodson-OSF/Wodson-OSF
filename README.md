@@ -90,11 +90,10 @@ const Wodson = {
 <details> 
 <summary>Estatísticas gerais</summary> 
 <div> 
-  <img alt="github repos" src="https://back.pufler.dev/repos/Wodson-OSF?color=181717&style=for-the-back&labelColor=7E3ACE"> 
-    <img alt="commits today" src="https://back.pufler.dev/commits/daily/Wodson-OSF?color=181717&style=for-the-back&labelColor=7E3ACE&label=commits+de+hoje"> 
-    <img alt="commits this week" src="https://back.pufler.dev/commits/weekly/Wodson-OSF?color=181717&style=for-the-back&labelColor=7E3ACE&label=commits+desta+semana"> 
-    <img alt="commits this month" src="https://back.pufler.dev/commits/monthly/Wodson-OSF?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes"> 
-
+    <img alt="github repos" src="https://badges.pufler.dev/repos/Wodson-OSF?color=181717&style=for-the-badge&labelColor=7E3ACE"> 
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Wodson-OSF?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje"> 
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Wodson-OSF?color=181717&style=for-the badge&labelColor=7E3ACE&label=commits+desta+semana"> 
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Wodson-OSF?color=181717&style=for-the badge&labelColor=7E3ACE&label=commits+deste+mes"> 
 </div> 
 
 <div alig="center"> 
