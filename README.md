@@ -11,7 +11,7 @@
  <tr><td><a href="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-<h2>:woman_technologist: Sobre mim</h2>
+<h2>:man_technologist: Sobre mim</h2>
 
 ```js
 console.log("Olá mundo!");
