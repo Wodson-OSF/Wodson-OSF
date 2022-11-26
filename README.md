@@ -29,7 +29,7 @@ const Wodson = {
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Wodson-OSF">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Wodson-OSF?style=social&label=@alca_massa_alvo">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Wodson-OSF?style=social&label=@Wodson-OSF">
 </a>
 <a href="https://linkedin.com/in/wodson">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/wodsonoliveira&color=0A66C2&style=flat&logo=linkedin" />
@@ -38,7 +38,7 @@ const Wodson = {
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@wodsonoliveira&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/alca_massa_alvo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alca_massa_alvo=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alca_massa_alvo=&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:woth_o@hotmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=woth_o@hotmail.com&color=whitesmoke&style=flat&logo=hotmail" />
