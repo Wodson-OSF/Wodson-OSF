@@ -1,20 +1,13 @@
 💫 const Wodson = {
-<div id="top"></div> 
-
-<div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/header2.png"></div> 
+<div id="top"></div><div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/assets/header2.png"></div> 
 
 <div align="center"> 
-
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Wodson;Estudante+de+Computa%C3%A7%C3%A3o;Página+em+desenvolvimento" alt="Computer Student, Brazilian"></a> 
-
 </div> 
 
 <table align="right"> 
-
 <tr><td><a href="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/README.md">:us: English</a></td></tr> 
-
 <tr><td><a href="https://github.com/Wodson-OSF/Wodson-OSF/blob/main/README-pt-br.md">:brazil: Português</a></td></tr> 
-
 </table> 
 
 <h2>:man_technologist: Sobre mim</h2> 
