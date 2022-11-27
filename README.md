@@ -91,7 +91,7 @@ const Wodson = {
 </a> 
 </br> 
 <a href="https://portfolio-Wodson-OSF.vercel.app/"> 
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" /> 
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=blue&style=for-the-badge" /> 
 </a> 
 </br></br> 
 
