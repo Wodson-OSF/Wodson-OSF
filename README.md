@@ -73,8 +73,6 @@ const Wodson = {
 <code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code> 
 </br></br> 
 
- ![Snake animation](https://github.com/Wodson-OSF/Wodson-OSF/blob/output/github-contribution-grid-snake.svg)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wodson-OSF&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wodson-OSF&theme=blue-green&hide_border=false)<br/>
