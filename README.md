@@ -44,9 +44,8 @@ const Wodson = {
   <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://t.me/Wodsonoliveira"> 
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@wodsonoliveira&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" /> 
-</a> 
-<a href="https://www.instagram.com/alca_massa_alvo/"> 
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alca_massa_alvo&style=flat&logo=instagram&logoColor=whitesmoke" /> 
+</a>
+<a href="https://www.instagram.com/alca_massa_alvo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
 <a href="mailto:woth_o@hotmail.com"> 
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=woth_o@hotmail.com&color=whitesmoke&style=flat&logo=hotmail" /> 
