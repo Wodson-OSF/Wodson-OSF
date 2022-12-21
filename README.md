@@ -41,9 +41,7 @@ const Wodson = {
 <a href="https://github.com/Wodson-OSF"> 
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Wodson-OSF?style=social&label=@Wodson-OSF"> 
 </a> 
-<a href="https://linkedin.com/in/wodson"> 
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/wodson-oliveira-da-silva-freitas-33610b6a&color=0A66C2&style=flat&logo=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://t.me/Wodsonoliveira"> 
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@wodsonoliveira&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" /> 
 </a> 
