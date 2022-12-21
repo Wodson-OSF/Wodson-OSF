@@ -38,8 +38,7 @@ const Wodson = {
 ``` 
 <h2>:busts_in_silhouette: Onde me encontrar</h2> 
 
-<a href="https://github.com/Wodson-OSF"> 
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Wodson-OSF?style=social&label=@Wodson-OSF"> 
+<a href="https://github.com/Wodson-OSF"> target="><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Wodson-OSF?style=social&label=@Wodson-OSF"> 
 </a> 
   <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://t.me/Wodsonoliveira"> 
