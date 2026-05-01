@@ -28,29 +28,6 @@
     <a href="mailto:wodsonambiental@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- REDES SOCIAIS - Ícones redondos -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" title="LinkedIn">
-    <img width="32px" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/WodsonOSF" title="Instagram">
-    <img width="32px" alt="Instagram" src="https://i.imgur.com/OfVllex.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/wodsonosf" title="Discord">
-    <img width="32px" alt="Discord" src="https://i.imgur.com/OViZO8J.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Wodsonoliveira" title="Telegram">
-    <img width="32px" alt="Telegram" src="https://i.imgur.com/ydvNMPD.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:wodsonambiental@gmail.com" title="Gmail">
-    <img width="32px" alt="Gmail" src="https://i.imgur.com/oFEBgLD.png"/>
-  </a>
-</p>
-
 <br>
 ---
 
