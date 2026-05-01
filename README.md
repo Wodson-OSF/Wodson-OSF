@@ -29,30 +29,30 @@
 </p>
 
 
-<!-- REDES SOCIAIS - Ícones grandes -->
+<!-- REDES SOCIAIS -->
 <p align="center">
   <a href="https://github.com/Wodson-OSF" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="48"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="48"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/WodsonOSF" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="48"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/wodsonosf" title="Discord">
-    <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="48"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Wodsonoliveira" title="Telegram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" width="48" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" height="48"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:wodsonambiental@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="48"/>
   </a>
 </p>
 
