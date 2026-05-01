@@ -28,6 +28,31 @@
     <a href="mailto:wodsonambiental@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- REDES SOCIAIS - Ícones grandes via skill-icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/WodsonOSF" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/wodsonosf" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Wodsonoliveira" title="Telegram">
+    <img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:wodsonambiental@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
+  </a>
+</p>
+
+<br>
+
 ---
 
 ## 🚀 **Projetos em Desenvolvimento**
