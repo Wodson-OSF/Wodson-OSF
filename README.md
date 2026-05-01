@@ -35,11 +35,11 @@
   <a href="https://discord.gg/wodsonosf" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord"/>
   </a>
- <a href="https://t.me/Wodsonoliveira"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:wodsonambiental@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/Wodsonoliveira"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   </a>
 </p>
 
