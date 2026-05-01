@@ -18,12 +18,6 @@
     <img alt="Visitas" title="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=Wodson-OSF&color=00bfbf&style=for-the-badge&label=VISITAS"/>
 </p>
 
-<!-- REDES SOCIAIS -->
-<p align="center">
-       <a href="https://t.me/Wodsonoliveira"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-
 <!-- REDES SOCIAIS - Ícones grandes -->
 <p align="center">
   <a href="https://github.com/Wodson-OSF" title="GitHub">
