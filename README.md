@@ -28,8 +28,13 @@
     <a href="mailto:wodsonambiental@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- REDES SOCIAIS - Ícones grandes via skill-icons -->
+
+<!-- REDES SOCIAIS - Ícones grandes -->
 <p align="center">
+  <a href="https://github.com/Wodson-OSF" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/wodson-oliveira-da-silva-freitas-33610b6a/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
@@ -43,7 +48,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Wodsonoliveira" title="Telegram">
-    <img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" width="48" alt="Telegram"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:wodsonambiental@gmail.com" title="Gmail">
